@@ -1,5 +1,0 @@
-batch_size=50,
-rnn_layer_sizes=[256, 256, 256],
-dropout_keep_prob=0.3,
-clip_norm=5,
-learning_rate=0.001
